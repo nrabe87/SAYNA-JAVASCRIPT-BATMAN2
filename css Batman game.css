@@ -1,0 +1,141 @@
+head{
+    margin-top: auto;
+ }
+
+div.logo {
+    text-align: left;
+    padding-left: 5cm;
+    margin-top: 0cm;
+    padding-top: 1.5cm;
+    
+    }
+
+
+    div.home {
+        padding-right: 2cm;
+        margin-top:-1cm;
+        padding-top: -1.5cm;
+        margin-left: 28cm;
+ }
+ .conteneur{
+    color: #ffffff;
+    border: 1px solid white;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-bottom: none;
+    border-top:none ;
+ }
+
+a:hover{
+    background-position: yellow 40%;
+    color: yellow;
+ }
+/*ici commence le css de body*/     
+
+body{
+    background-image: url(Assets/Illustrations/Batgame_1.png);
+background-color: black;
+    background-repeat: no-repeat;
+    margin-top: 0;
+}
+
+div.game{
+    color: white;
+    margin-left: auto;
+    padding-left: 5cm;
+    text-transform: uppercase;
+    font-family: 'rajdhani';
+    font-size: 40px;
+    padding-top: 4cm;
+}
+
+hr{
+    height: 0cm;
+    width: 29cm;
+    color: rgba(250, 235, 215, 0.301);
+    border-width: 1.5px;
+}
+.check-box{
+    color: white;
+    background-color: white;
+   
+}
+
+div.ima2{
+    text-align: right;
+    backface-visibility: visible;
+    padding-right :3cm;
+    padding-top: 0.5cm;
+    padding-bottom: auto;
+    margin-top: auto;
+    
+    }
+    
+    
+ div.ima{
+    text-align: right;
+    backface-visibility: visible;
+    padding-right :2cm;
+    padding-top: 1cm;
+    margin-top: auto;
+    padding-bottom: auto;
+    
+    }
+
+    div.global {
+        padding-top: -2cm;
+        margin-top: -2cm;
+        
+    }
+
+    div.fleche{
+        padding-top: 4cm;
+         text-align: center;
+    }
+
+    div.chevalnoir{
+text-align: center;
+text-transform: uppercase;
+font-family: 'rajdhani' ;
+font-size: 32px;
+
+    }
+
+    div.batgame2{
+        text-align: center;
+    }
+
+    .quizz{
+        padding-top: 0cm;
+        padding-bottom: 0cm;
+        padding-left: 2cm;
+        padding-right: 2cm;
+        text-align: center;
+        background-color: rgb(228, 170, 64) white;
+        background-position: 50%;
+        position: inherit;
+        border-style:none;
+        text-transform: uppercase;
+        font-size: 17px;
+         font-family: 'rajdhani';
+         
+    }
+    button{
+        text-align: center;
+        margin-left: 15cm;
+        background-color: rgb(228, 170, 64) white;
+        background-position: unset;
+        position:static;
+        color: rgb(228, 170, 64) white ;
+    }
+
+/*ici commente le footer*/
+    div.last{
+        text-align: center;
+     }
+     
+     div.blast{
+        text-align: center;
+        font-size: x-small;
+        
+     }

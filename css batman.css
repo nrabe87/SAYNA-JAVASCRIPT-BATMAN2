@@ -1,0 +1,289 @@
+p { 
+        text-align: justify;
+        width: 25cm;
+        border-width: 2px ;
+        border-color: gray;
+        height: auto;
+        font-size :x-large;
+        padding-left: 5cm;
+      font-family: 'space grotesk regular';
+      font-size: 20px;
+}
+
+h1{
+   padding-left: 5cm;
+   font-size: 30px;
+}
+h3{
+   font-family: 'Space grotesk bold';
+   font-size: 30px;
+   
+}
+
+body {
+    background-image: url(Assets/Illustrations/Bathome1.png);
+    background-repeat :no-repeat;
+    background-color: black;
+    text-align: justify;
+    overflow:visible;
+    margin-right: 0;
+    font-family: 'space grotesk regular';
+    font-size: 20px;
+    
+   
+}
+table{
+   text-align: justify;
+}
+hr{
+   padding: 10;
+   width: 80cm;
+   height: 20cm;
+   overflow: hidden;
+   }
+
+div.photogauche {
+    float: left;
+    text-align: left;
+}
+
+div.batb2{
+   text-align: left;
+   padding-left: 0;
+   border-left: 0;
+   margin-left: 0;
+   float: left;
+     }
+
+div.just{
+   padding-left: 1;
+   padding-top: 15cm;
+   margin-left: 1;
+   text-align: center;
+}
+
+div.table{
+   text-align: center;
+   padding:center;
+   
+}
+div.center{
+   text-align: center;
+   padding-top : 3cm;
+   word-spacing: 10px;
+     padding-left: 3.5cm;
+}
+
+div.hero{
+      display: inline-table;
+   width: 50%;
+margin: 1cm;
+margin-left: 9cm;
+margin-right: 1cm;
+padding: 0.4cm;
+text-align: center;
+border:0px solid ;
+background-color: rgba(245, 245, 220, 0.63);
+}
+
+div.adve{
+   
+   display :inline-table;
+   position: center;
+   width: 50%;
+margin: 1cm;
+margin-left: 6cm;
+margin-right: 1cm;
+padding: 0.4cm;
+text-align: center;
+border:0px solid ;
+background-color: rgba(245, 245, 220, 0.63);
+
+}
+div.leg1{
+   padding-left: 1cm;
+   font-size: large;
+}
+div.bat1 {
+   text-align: center;
+       padding-left: 4cm;
+}
+div.container{
+   background-color:rgb(54, 53, 53);
+}
+
+.conteneur{
+   color: #ffffff;
+   border: 1px solid white;
+   border-bottom: none;
+   border-top:none ;
+   }
+div.bat12{
+    float: right;
+    border-right: 0;
+    position: absolute;
+    margin-left: 25.5cm;
+    margin-top: -4cm;
+    padding-right: 0;
+    margin-right: 0;
+  
+}
+h5{
+   padding-bottom: 0;
+}
+div.box{
+   margin-left: 4cm;
+   padding-left: 4cm;
+   font-family: 'rajdhani';
+}
+::placeholder{
+   height: 1cm;
+}
+div.home {
+        padding-right: 2cm;
+        margin-top: -1.5cm;
+        margin-left: 28cm;
+        padding-top: 0;
+        border-top: 0;
+      font-size: small;
+}
+head{
+   margin-top: 132px;
+   font-size: 20px;
+}
+.quiz{
+   text-align: center;
+   margin-left: 5cm;
+}
+a:hover{
+   background-position: yellow 40%;
+   color: yellow;
+}
+
+p,div.pre {
+    font-family: center;
+}
+
+hr{
+   height: 0cm;
+   width: 20cm;
+   color: rgba(250, 235, 215, 0.301);
+   border-width: 1px;
+
+}
+div.logo {
+text-align: left;
+padding-left: 5cm;
+margin-top: 0cm;
+}
+
+
+ h1{
+    text-align: left;
+ } 
+ div.ima2{
+   text-align: right;
+   backface-visibility: visible;
+   padding-right :3cm;
+   padding-top: 0.5cm;
+   padding-bottom: 10;
+   margin-top: -4cm;
+   }
+   
+   
+div.ima{
+   text-align: right;
+   backface-visibility: visible;
+   padding-right :2cm;
+   padding-top: 1cm;
+   margin-top: -7cm;
+   padding-bottom: 10;
+   }
+
+ div.ima3{
+   text-align: center;
+   margin-top: 12cm;
+ }
+ div.space{
+    padding-left: 3cm;
+    position: left;
+ }
+
+ div.space1{
+   padding-left: 3cm;
+   position: center;
+ }
+
+ div.space2{
+   padding-left: 3cm;
+   position: absolute;
+ }
+ figcaption{
+    text-align: center;
+ }
+
+ p{
+    font-family: url"https://fonts.googleapis.com/css?family=Rajdhani";
+ }
+ 
+ div.bat13 {
+    background-position:left;
+    padding-left: 7.3cm;
+    position:relative;
+    font-size: small;
+    padding-top: 0.5cm;
+ }
+
+body{   
+    border-top: 5cm;
+    border-color : darkgray;
+    }
+
+body{
+    padding-top: 80px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 10px;
+}
+
+div.batc{
+    word-spacing: 5cm;
+}
+
+div.last{
+   text-align: center;
+}
+
+div.blast{
+   text-align: center;
+   font-size: x-small;
+   
+}
+
+div.prelast{
+   text-align: center;
+}
+
+div.text{
+   width: 7cm;
+   text-align: justify;
+}
+
+div.b2{
+   text-align: center;
+   margin-top: 2cm;
+      margin-left: 2cm;
+}
+div.prelast1{
+   text-align: left;
+   padding-left: 5cm;
+}
+
+div.prelast2{
+   text-align: right;
+   padding-right: 5cm;
+}
+
+div.special{
+   text-align: center;
+  }
